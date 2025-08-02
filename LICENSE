@@ -1,0 +1,12 @@
+
+---
+
+### 📦 `requirements.txt`
+
+```text
+pandas
+scikit-learn
+streamlit
+matplotlib
+shap
+joblib
